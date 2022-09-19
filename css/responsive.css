@@ -1,0 +1,104 @@
+@media screen and (max-width :765px) {
+    #hero h1{
+        font-style: italic;
+        font-weight: 600;
+        font-size: 48px;
+        line-height: 55px;
+    
+        color: #524A4E;
+    }
+    
+    #hero p{
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 115.5%;
+        /* or 28px */
+    
+    
+        color: #FFFFFF;
+    }
+    
+    .button-hero{
+        margin-top: 73px;
+        padding: 10px 29px;
+        border: none;
+        background: #FF5C8D;
+        border-radius: 32px;
+        
+        font-weight: 500;
+        color: #FFFFFF;
+    }
+
+    #menu2 img{
+        display: none;
+    }
+
+    #menu2 h2{
+        font-style: italic;
+        font-weight: 700;
+        font-size: 90%;
+        /* or 31px */
+    
+        text-transform: uppercase;
+    
+        color: #FF5C8D;
+    }
+
+    .text-right{
+        text-align: right;
+    }
+
+    #menupeluangbisnis .headermenu p{
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 27px;
+        text-align: center;
+    
+        color: #524A4E;
+    }
+    
+    
+    #menu2 p{
+        width: 90%;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 70%;
+        line-height: 15px;
+        text-transform: uppercase;
+    
+        color: #524A4E;
+    }
+
+    #menu img{
+        width: 300px;
+        
+    }
+
+    /* Footer */
+    .content-left p{
+        font-size: 50%;
+    }
+
+    .copyright{
+        font-size: 50%;
+    }
+
+    .contact a{
+        font-size: 50%;
+    }
+
+    .telfon{
+        color: #FFFFFF;
+        font-size: 50%;
+    }
+
+    .alamat{
+        font-size: 50%;
+    }
+}
+
+@media screen and (max-width:767px) {
+    #menu img{
+        
+    }
+}
